@@ -68,8 +68,6 @@ además de experiencia trabajando con Microsoft Dynamics 365 Business Central, P
   <img height="165" src="assets/top-langs.svg" alt="Top Langs"/>
 </p>
 
-> Estas tarjetas las genera automáticamente el workflow `stats.yml` incluido más abajo — actívalo una vez desde la pestaña Actions y se guardarán como SVG dentro de tu propio repo, sin depender de ningún servicio externo.
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prometheus118&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
@@ -83,8 +81,6 @@ además de experiencia trabajando con Microsoft Dynamics 365 Business Central, P
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prometheus118/Prometheus118/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" width="860" height="230" src="https://raw.githubusercontent.com/Prometheus118/Prometheus118/output/pacman-contribution-graph.svg">
 </picture>
-
-> Esta animación la genera automáticamente el workflow `pacman.yml` incluido más abajo — solo necesitas activarlo una vez en tu repo (créalo en `.github/workflows/pacman.yml`).
 
 <br>
 
