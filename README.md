@@ -64,9 +64,11 @@ además de experiencia trabajando con Microsoft Dynamics 365 Business Central, P
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Prometheus118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Prometheus118&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+  <img height="165" src="assets/stats.svg" alt="GitHub Stats"/>
+  <img height="165" src="assets/top-langs.svg" alt="Top Langs"/>
 </p>
+
+> Estas tarjetas las genera automáticamente el workflow `stats.yml` incluido más abajo — actívalo una vez desde la pestaña Actions y se guardarán como SVG dentro de tu propio repo, sin depender de ningún servicio externo.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prometheus118&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
