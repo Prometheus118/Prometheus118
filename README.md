@@ -74,7 +74,13 @@ además de experiencia trabajando con Microsoft Dynamics 365 Business Central, P
 
 <br>
 
-## 👻 Actividad reciente
+## 👾 Actividad reciente
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prometheus118/Prometheus118/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prometheus118/Prometheus118/output/commit-invaders.svg">
+  <img alt="commit invaders" width="860" height="230" src="https://raw.githubusercontent.com/Prometheus118/Prometheus118/output/commit-invaders.svg">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prometheus118/Prometheus118/output/pacman-contribution-graph-dark.svg">

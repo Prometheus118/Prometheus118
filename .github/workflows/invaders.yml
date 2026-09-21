@@ -1,0 +1,21 @@
+name: Generate Commit Invaders
+
+on:
+  schedule: # se actualiza automáticamente cada 24 horas
+    - cron: "0 0 * * *"
+  workflow_dispatch: {} # permite ejecutarlo manualmente desde la pestaña Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Goblinlordx/commit-invaders@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
