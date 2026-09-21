@@ -120,8 +120,6 @@ with Java and Spring and frontend development with Angular.
   <img alt="pacman contribution graph" width="860" height="230" src="https://raw.githubusercontent.com/Prometheus118/Prometheus118/output/pacman-contribution-graph.svg">
 </picture>
 
-<img alt="GitWorld" width="860" src="https://raw.githubusercontent.com/Prometheus118/Prometheus118/main/dist/gitworld.svg">
-
 <br>
 
 ## 📬 Contact
