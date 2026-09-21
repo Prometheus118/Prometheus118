@@ -64,12 +64,12 @@ además de experiencia trabajando con Microsoft Dynamics 365 Business Central, P
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prometheus118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prometheus118&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prometheus118&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <br>
@@ -77,9 +77,9 @@ además de experiencia trabajando con Microsoft Dynamics 365 Business Central, P
 ## 👻 Actividad reciente
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" width="860" height="230" src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prometheus118/Prometheus118/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prometheus118/Prometheus118/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" width="860" height="230" src="https://raw.githubusercontent.com/Prometheus118/Prometheus118/output/pacman-contribution-graph.svg">
 </picture>
 
 > Esta animación la genera automáticamente el workflow `pacman.yml` incluido más abajo — solo necesitas activarlo una vez en tu repo (créalo en `.github/workflows/pacman.yml`).
@@ -98,7 +98,7 @@ además de experiencia trabajando con Microsoft Dynamics 365 Business Central, P
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&style=for-the-badge&color=1E293B&label=VISITAS" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Prometheus118&style=for-the-badge&color=1E293B&label=VISITAS" alt="visitor badge"/>
 </p>
 
 <p align="center">✨ ¡Gracias por visitar mi perfil! / Thanks for visiting my profile! ✨</p>
