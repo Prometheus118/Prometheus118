@@ -1,0 +1,22 @@
+name: Generate GitWorld
+
+on:
+  schedule: # updates automatically every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch: {} # lets you run it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Dasmat13/git-world-action@main
+        with:
+          github_user_name: ${{ github.actor }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/gitworld.svg
